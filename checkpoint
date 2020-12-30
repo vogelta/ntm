@@ -1,0 +1,2 @@
+model_checkpoint_path: "Copy_ntm.weights"
+all_model_checkpoint_paths: "Copy_ntm.weights"
